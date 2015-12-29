@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TripMate/TabBar/Sights/Controller/SightsViewController.m"
+            timestampString = "469766054.662847"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "433"
+            endingLineNumber = "433"
+            landmarkName = "-picFromNet"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SightsViewController picFromNet]"
+                  moduleName = "TripMate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lujunwei/Desktop/TripMate%E5%8D%B3%E5%B0%86%E4%B8%8A%E7%BA%BF%E7%89%883.0/TripMate/TabBar/Sights/Controller/SightsViewController.m"
+                  timestampString = "469724937.5759"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "444"
+                  endingLineNumber = "444"
+                  offsetFromSymbolStart = "386">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__34-[SightsViewController picFromNet]_block_invoke"
+                  moduleName = "TripMate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lujunwei/Desktop/TripMate%E5%8D%B3%E5%B0%86%E4%B8%8A%E7%BA%BF%E7%89%883.0/TripMate/TabBar/Sights/Controller/SightsViewController.m"
+                  timestampString = "469724937.576395"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "444"
+                  endingLineNumber = "444"
+                  offsetFromSymbolStart = "101">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TripMate/TabBar/Sights/Controller/SightsViewController.m"
+            timestampString = "469766054.662847"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
+            landmarkName = "-alterViewLoadWithMessage:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SightsViewController alterViewLoadWithMessage:]"
+                  moduleName = "TripMate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lujunwei/Desktop/TripMate%E5%8D%B3%E5%B0%86%E4%B8%8A%E7%BA%BF%E7%89%883.0/TripMate/TabBar/Sights/Controller/SightsViewController.m"
+                  timestampString = "469762071.313591"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "123">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__49-[SightsViewController alterViewLoadWithMessage:]_block_invoke"
+                  moduleName = "TripMate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lujunwei/Desktop/TripMate%E5%8D%B3%E5%B0%86%E4%B8%8A%E7%BA%BF%E7%89%883.0/TripMate/TabBar/Sights/Controller/SightsViewController.m"
+                  timestampString = "469762071.313848"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TripMate/TabBar/Sights/Controller/SightsViewController.m"
+            timestampString = "469766054.662847"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "201"
+            endingLineNumber = "201"
+            landmarkName = "-alterViewLoadWithMessage:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SightsViewController alterViewLoadWithMessage:]"
+                  moduleName = "TripMate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lujunwei/Desktop/TripMate%E5%8D%B3%E5%B0%86%E4%B8%8A%E7%BA%BF%E7%89%883.0/TripMate/TabBar/Sights/Controller/SightsViewController.m"
+                  timestampString = "469762071.315198"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__49-[SightsViewController alterViewLoadWithMessage:]_block_invoke_2"
+                  moduleName = "TripMate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lujunwei/Desktop/TripMate%E5%8D%B3%E5%B0%86%E4%B8%8A%E7%BA%BF%E7%89%883.0/TripMate/TabBar/Sights/Controller/SightsViewController.m"
+                  timestampString = "469762071.315681"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TripMate/TabBar/Sights/Controller/SightsViewController.m"
+            timestampString = "469765994.198281"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "-networkResult:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TripMate/TabBar/Sights/Controller/SightsViewController.m"
+            timestampString = "469765998.165026"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "-tool"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
